@@ -2,3 +2,5 @@
 my first repository
 <br>
 Author-Khushi Singh (katseye)
+whatsapp
+facegram
